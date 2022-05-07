@@ -1,0 +1,35 @@
+Matrix Size 10, Sequential Matrix Mult
+ Time:3
+Matrix Size 10, Parallel Matrix Mult
+ Time:3
+
+Matrix Size 50, Sequential Matrix Mult
+ Time:342
+Matrix Size 50, Parallel Matrix Mult
+ Time:364
+
+Matrix Size 100, Sequential Matrix Mult
+ Time:2984
+Matrix Size 100, Parallel Matrix Mult
+ Time:2817
+
+Matrix Size 250, Sequential Matrix Mult
+ Time:44787
+Matrix Size 250, Parallel Matrix Mult
+ Time:8029
+
+Matrix Size 500, Sequential Matrix Mult
+ Time:354098
+Matrix Size 500, Parallel Matrix Mult
+ Time:34852
+
+Matrix Size 1000, Sequential Matrix Mult
+ Time:3021767
+Matrix Size 1000, Parallel Matrix Mult
+ Time:263086
+
+Matrix Size 2000, Sequential Matrix Mult
+ Time:23860284
+Matrix Size 2000, Parallel Matrix Mult
+ Time:2219230
+
