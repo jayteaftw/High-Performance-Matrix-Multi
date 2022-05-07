@@ -25,6 +25,6 @@ Table 1: Comparing Sequential and Parallel Multiplication Operations
 | 2000 x 2000 | 23860284        | 2219230       | 10.752 |
 
 
-**Conclusion:**
+**Conclusion**:
 
     As seen in Table 1, the parallel method outperformed that of the sequential method by a factor 5 to 11 when the matrix size was greater than 250; however, when the matrix size was smaller than 250, both methods achieved similliar results with the sequential beating the parallel method in some cases. This would make sense because perfomance is only achieved if the time gained from performing the mathematical operations in parallel is greater than that of the overhead added by the use of Threads. As the matrix size shrinks, the number of operations descreses while the thread's overhead stays fixed leading to some cases no perfomance is gained through parallelism.
