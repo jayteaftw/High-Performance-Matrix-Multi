@@ -9,7 +9,7 @@ In this project, I used
 * C++
 * Threads Class
 * Vectors Class
-* Parallelism
+* Parallel Computing
 
 
 Table 1: Comparing Sequential and Parallel Multiplication Operations
